@@ -1,4 +1,4 @@
-# 💫 Vijith 
+# 💫 Hi👋,  I'm Vijith gatty 
 ### **Full-Stack Developer | MERN Stack & Cloud Enthusiast**
 
 <p align="center">
@@ -94,6 +94,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-<p align="right">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vmaxy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vmaxy&icon=10&color=0077b5" alt="Profile Views" />
 </p>
