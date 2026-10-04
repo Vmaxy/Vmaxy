@@ -28,7 +28,7 @@ jobs:
           github_user_name: Vmaxy
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: dist/snake.svg
-          theme: neon-gamer
+          theme: cypherpunk
           year: ""
 
       - name: Deploy to output branch
