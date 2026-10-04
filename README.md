@@ -1,13 +1,45 @@
-# 💫 Hi👋,  I'm Vijith gatty 
-### **Full-Stack Developer | MERN Stack & Cloud Enthusiast**
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/Vijith-gatty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/33087588/vijith-gatty"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
-  <a href="https://x.com/Vijith_gatty"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="mailto:vijithk237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <!-- Dynamic Typing Header -->
+  <a href="https://github.com/Vmaxy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijith+Gatty;Full-Stack+MERN+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Web+Architectures" alt="Typing SVG" />
+  </a>
 
+  <p align="center">
+    <b>Turning caffeine and logic into scalable distributed systems.</b>
+  </p>
+
+  <!-- Profile Visitor Counter & Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/Vijith-gatty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/Vijith_gatty"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://stackoverflow.com/users/33087588/vijith-gatty"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+    <a href="mailto:vijithk237@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Vmaxy&style=flat-square&color=7aa2f7" alt="Profile Views" />
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+identity:
+  name: Vijith Gatty
+  role: Full-Stack Developer (MERN & Cloud)
+  status: Actively building open-source web apps and high-throughput backends
+
+focus_areas:
+  current: MERN stack applications & modern frontend architecture
+  exploring: Microservices, database optimization, and CI/CD automation
+  learning: Next.js App Router, Docker multi-stage build & Cloudflare Workers
+
+superpowers:
+  - "Seamlessly tracing bugs from React state down to MongoDB query logs"
+  - "Designing clean, type-safe REST APIs"
+```
 ---
 
 ### 🔭 About Me
