@@ -1,34 +1,17 @@
-name: Generate Snake Contribution Animation
+- name: Snake Evolution
+  uses: miccy/snake-evolution@v1.3.0
+  with:
+    # Your GitHub username
+    github_user_name: Vmaxy
 
-on:
-  schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    # Grants authenticated API access to prevent rate-limiting
+    github_token: ${{ secrets.GITHUB_TOKEN }}
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+    # Path where the generated SVG will be saved
+    outputs: dist/snake.svg
 
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    # Color theme: github-light, github-dark, ocean, sunset, neon-gamer, cypherpunk
+    theme: neon-gamer
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # Leave empty or omit to use the rolling last 12 months
+    year: ""
