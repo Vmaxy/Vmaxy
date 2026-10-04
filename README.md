@@ -1,108 +1,78 @@
-# 💫 Hi👋,  I'm Vijith gatty 
-### **Full-Stack Developer | MERN Stack & Cloud Enthusiast**
+<h1 align="center">Vijith Gatty</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Vijith-gatty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/33087588/vijith-gatty"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
-  <a href="https://x.com/Vijith_gatty"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="mailto:vijithk237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  Computer Science Engineering student building practical web tools and software systems.
+</p>
+
+<p align="center">
+  <a href="https://winmaildatopener.com">Try my live project</a> ·
+  <a href="https://github.com/Vmaxy">GitHub</a> ·
+  <a href="https://linkedin.com/in/Vijith-gatty">LinkedIn</a> ·
+  <a href="mailto:vijithk237@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <strong>Python · TypeScript · Astro · React · Computer vision</strong><br />
+  <a href="https://github.com/Vmaxy/winmaildat-opener">Winmail.dat Opener</a> ·
+  <a href="https://github.com/Vmaxy/AI-smart-traffic-management">Traffic orchestration prototype</a>
 </p>
 
 ---
 
-### 🔭 About Me
+## About
 
-* 🚀 **Currently working on:** Full-stack web applications built on the MERN stack.
-* 🤝 **Looking to collaborate on:** Open-source web applications and impactful full-stack side projects.
-* 💡 **Seeking guidance in:** Database optimization strategies and cloud deployment pipelines.
-* 🌱 **Currently learning:** Modern frontend architecture, backend microservices, and API integrations.
-* 💬 **Ask me about:** JavaScript/TypeScript, MERN stack patterns, and web architecture.
-* ⚡ **Fun Fact:** I can seamlessly debug backend logs and frontend components in the same sitting.
+I learn by building: browser-based utilities, small React apps, and Python systems. I'm interested in full-stack development, cloud and DevOps, automation, and computer vision—and in the engineering work that turns a prototype into something people can use.
 
----
+## What I'm building
 
-### 💻 Tech Stack
+- **Useful web utilities** that solve a specific problem with as little friction as possible.
+- **End-to-end software systems** where perception, decision-making, safety, and control have to work together.
+- **Small experiments** that help me strengthen my software engineering fundamentals.
 
-<summary><b>Core Languages & Frontend</b></summary>
-<br />
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
+## Featured projects
 
+### [Winmail.dat Opener](https://github.com/Vmaxy/winmaildat-opener) · [Live site](https://winmaildatopener.com)
 
-<summary><b>Backend, Databases & Cloud</b></summary>
-<br />
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
+A browser-based tool for recovering attachments from `winmail.dat` files. It decodes files locally in the browser—no file upload—and lets people download recovered attachments individually or as a ZIP.
 
+**Built with:** Astro, TypeScript, `omnimail`, and `fflate` · **Deployed on:** Cloudflare Pages
 
+### [Autonomous Multi-Agent Traffic Orchestration System](https://github.com/Vmaxy/AI-smart-traffic-management)
 
-<summary><b>DevOps, Tools & Creative</b></summary>
-<br />
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</p>
+A Python prototype exploring a closed-loop traffic-control system, rather than a standalone traffic-light demo.
 
+**Implemented in the repository:** optional camera/video perception using OpenCV and YOLO with ByteTrack tracking; traffic-state estimation; a LangGraph decision workflow; coordination and safety-checked signal commands; SQLite history; a hardware-free controller simulation; and Arduino firmware with a serial protocol.
 
----
-<!-- Snake Game Repo View -->
+**Still experimental / needs real-world validation:** the repository does not establish that a physical miniature-intersection demonstration or real-road deployment has been completed. Emergency-vehicle detection also depends on compatible model weights; the default model does not identify ambulances or fire trucks.
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+**Built with:** Python, LangGraph, OpenCV, Ultralytics YOLO, ByteTrack, and SQLite
 
+### More projects
 
-### 📊 GitHub Activity & Metrics
+I also have a small [React notes app](https://github.com/Vmaxy/react-notes-app-project) and a [React gallery experiment](https://github.com/Vmaxy/React-Gallary-project) that requests photos from the Picsum Photos API with Axios. A [Cognifyz internship exercise](https://github.com/Vmaxy/cognifyz-internship) contains a minimal Express form endpoint.
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vmaxy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vmaxy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-</p>
+## Technologies in my projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vmaxy&theme=tokyonight&hide_border=false" alt="Streak Stats" width="98%" />
-</p>
+These are technologies demonstrated in my repositories—not a claim of equal depth across every tool.
 
----
+| Area | Evidence from my projects |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, C++ (Arduino firmware), HTML, CSS |
+| Web | Astro, React, Vite, Tailwind CSS, Axios |
+| Computer vision & orchestration | OpenCV, Ultralytics YOLO, ByteTrack, LangGraph |
+| Data & deployment | SQLite, Cloudflare Pages |
+| Small experiments | Express (internship exercise), Docker (traffic project container config) |
 
-### 🏆 GitHub Trophies
+## Currently exploring
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vmaxy&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+- Camera-based perception and tracking, plus multi-agent coordination and safety in the traffic-system prototype.
+- Cloud deployment, DevOps, and automation as areas to build practical experience.
+- Full-stack engineering by shipping small, useful products and improving them over time.
 
----
+## Contact
 
-### ✍️ Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vmaxy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vmaxy&icon=10&color=0077b5" alt="Profile Views" />
-</p>
+- [LinkedIn](https://linkedin.com/in/Vijith-gatty)
+- [Stack Overflow](https://stackoverflow.com/users/33087588/vijith-gatty)
+- [X](https://x.com/Vijith_gatty)
+- [Email](mailto:vijithk237@gmail.com)
+- [GitHub](https://github.com/Vmaxy)
