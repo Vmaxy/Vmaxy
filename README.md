@@ -34,10 +34,10 @@ identity:
 focus_areas:
   current: MERN stack applications & modern frontend architecture
   exploring: Microservices, database optimization, and CI/CD automation
-  learning: Next.js App Router, Docker multi-stage build & Cloudflare Workers
+  learning: Modern frontend architecture, backend microservices, and API integrations
 
 superpowers:
-  - "Seamlessly tracing bugs from React state down to MongoDB query logs"
+  - "I can seamlessly debug backend logs and frontend components in the same sitting."
   - "Designing clean, type-safe REST APIs"
 ```
 ---
