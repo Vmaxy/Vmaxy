@@ -42,17 +42,6 @@ superpowers:
 ```
 ---
 
-### 🔭 About Me
-
-* 🚀 **Currently working on:** Full-stack web applications built on the MERN stack.
-* 🤝 **Looking to collaborate on:** Open-source web applications and impactful full-stack side projects.
-* 💡 **Seeking guidance in:** Database optimization strategies and cloud deployment pipelines.
-* 🌱 **Currently learning:** Modern frontend architecture, backend microservices, and API integrations.
-* 💬 **Ask me about:** JavaScript/TypeScript, MERN stack patterns, and web architecture.
-* ⚡ **Fun Fact:** I can seamlessly debug backend logs and frontend components in the same sitting.
-
----
-
 ### 💻 Tech Stack
 
 <summary><b>Core Languages & Frontend</b></summary>
